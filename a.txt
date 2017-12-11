@@ -1,0 +1,2 @@
+git add .//检测是否被打包
+git status //文件打包
